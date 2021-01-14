@@ -67,7 +67,7 @@ Suppose your new project name is `MyApp`.
 
   
 
-1.  `git clone https://gitlab.com/tedmob/ios/base-project-swift.git MyApp`
+1.  `git clone https://github.com/HadiYaac/Clean-Base-Project.git MyApp`
 
   
 
@@ -85,10 +85,9 @@ Suppose your new project name is `MyApp`.
 
   
 
-4. Once rename is don, It will commit the new changes with a special commit message
+4. Once rename is done, It will commit the new changes with a special commit message
 
   
-
   
 
 5. Run `carthage update --platform iOS --no-use-binaries`
